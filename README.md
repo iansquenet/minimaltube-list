@@ -3,7 +3,7 @@ My personal [BlockTube](https://github.com/amitbl/blocktube) export config list 
 
 ## About
 
-This list should help keep away from distractions and clickbait. I've come up with all the keywords.
+This list should help keep away from distractions and clickbait. I've come up with all the keywords. Also may cause to break.
 
 As of now there are no categories, but all the keywords are alphabetically sorted and ends with symbols and emojis.
 
@@ -21,6 +21,9 @@ Basically taking out all fun and being a bit excessive, but for myself, it works
 2. Open BlockTube settings.
 3. Click on `Import` and select `iansquenet_blocktube_backup.json`.
 4. Done!
+
+## Credits
+[dragitz](https://github.com/dragitz) for the regex [blocktube-filters](https://github.com/dragitz/blocktube-filters).
 
 ## Other distraction-free add-ons and userscripts
 In progress.
