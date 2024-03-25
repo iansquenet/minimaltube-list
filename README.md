@@ -17,9 +17,9 @@ Basically taking out all fun and being a bit excessive, but for myself, it works
 ## Installation
 
 0. Install BlockTube for your browser.
-1. Download `iansquenet_blocktube_backup.json`.
+1. Download `blocktube_backup.json`.
 2. Open BlockTube settings.
-3. Click on `Import` and select `iansquenet_blocktube_backup.json`.
+3. Click on `Import` and select `blocktube_backup.json`.
 4. Done!
 
 ## Credits
